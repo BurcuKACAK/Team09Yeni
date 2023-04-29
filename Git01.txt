@@ -3,3 +3,5 @@ yeni kodlar yazdim
 push islemi yapildi
 
 bugun hava guzel
+
+burcu da islem yaptim
