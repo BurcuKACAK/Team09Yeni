@@ -1,3 +1,4 @@
 yeni kodlar yazdim
 
 push islemi yapildi
+pull islemi yapildi
