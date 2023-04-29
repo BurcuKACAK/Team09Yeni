@@ -1,1 +1,3 @@
 yeni kodlar yazdim
+
+push islemi yapildi
